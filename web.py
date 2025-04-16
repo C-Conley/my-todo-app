@@ -10,8 +10,8 @@ def add_todo():
 
 
 st.title("Get Shit Done")
-st.subheader("This is how we do it.")
-st.write("This is how we do it.")
+st.subheader("This is how we do shit.")
+st.write("This is how we do shit.")
 
 
 for index, todo in enumerate(todos):
